@@ -109,17 +109,22 @@ CRUD de Pessoa com métodos do JPA
 
 Listagem de Pessoas
 
+![image](https://github.com/user-attachments/assets/61501829-37b1-46b1-b830-5f3f549d3e46)
 
 Busca por ID
+![image](https://github.com/user-attachments/assets/7946c060-a92f-4ab7-8c11-43eb03ca1c45)
 
 
 Criar Pessoa
+![image](https://github.com/user-attachments/assets/783f08a2-0067-44ce-9da1-d83b70923966)
 
 
 Atualizar
 
+![image](https://github.com/user-attachments/assets/769a5d2f-7d5b-4c1b-bab5-497293d136f7)
 
 Deletar
+![image](https://github.com/user-attachments/assets/757661a9-638f-401c-acf1-114f55f62197)
 
 
 Contribuindo
@@ -148,4 +153,4 @@ Roadmap Futuro
 Contato
 Em caso de dúvidas, sugestões ou suporte, entre em contato:
 
-Seu Nome | LinkedIn | seuemail@exemplo.com
+Romario Ribeiro | [LinkedIn](https://www.linkedin.com/in/rom%C3%A1rio-ribeiro-5526061ab/) | romarioribeirodev@gmail.com
